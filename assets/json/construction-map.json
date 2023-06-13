@@ -1,0 +1,173 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "lat": 40.709497,
+      "lng": -73.958106,
+      "type": "dev",
+      "visible": true,
+      "content": "The Dime"
+    },
+    {
+      "id": 1,
+      "lat": 40.752253,
+      "lng": -73.93483,
+      "type": "dev",
+      "visible": true,
+      "content": "Thirtieth"
+    },
+    {
+      "id": 2,
+      "lat": 40.750817,
+      "lng": -73.936775,
+      "type": "dev",
+      "visible": true,
+      "content": "NOVA"
+    },
+
+    {
+      "id": 3,
+      "lat": 40.745033,
+      "lng": -73.948741,
+      "type": "complete",
+      "visible": true,
+      "content": "The Jackson"
+    },
+    {
+      "id": 4,
+      "lat": 40.75247,
+      "lng": -73.927977,
+      "type": "complete",
+      "visible": true,
+      "content": "The Silverstar"
+    },
+    {
+      "id": 6,
+      "lat": 40.721591,
+      "lng": -74.039886,
+      "type": "complete",
+      "visible": true,
+      "content": "The Art House"
+    },
+    {
+      "id": 7,
+      "lat": 40.747027,
+      "lng": -73.946861,
+      "type": "complete",
+      "visible": true,
+      "content": "The Craftsman"
+    },
+    {
+      "id": 8,
+      "lat": 40.741827,
+      "lng": -73.955845,
+      "type": "complete",
+      "visible": true,
+      "content": "The Murano"
+    },
+    {
+      "id": 9,
+      "lat": 40.747844,
+      "lng": -73.948779,
+      "type": "complete",
+      "visible": true,
+      "content": "One Murray Park"
+    },
+    {
+      "id": 10,
+      "lat": 40.742458,
+      "lng": -73.955569,
+      "type": "complete",
+      "visible": true,
+      "content": "Five27"
+    },
+    {
+      "id": 11,
+      "lat": 40.742972,
+      "lng": -73.958127,
+      "type": "complete",
+      "visible": true,
+      "content": "The Powerhouse"
+    },
+    {
+      "id": 12,
+      "lat": 40.748106,
+      "lng": -73.94576,
+      "type": "complete",
+      "visible": true,
+      "content": "The Industry"
+    },
+    {
+      "id": 13,
+      "lat": 40.747791,
+      "lng": -73.946968,
+      "type": "complete",
+      "visible": true,
+      "content": "The Decker"
+    },
+    {
+      "id": 14,
+      "lat": 40.744272,
+      "lng": -73.951375,
+      "type": "complete",
+      "visible": true,
+      "content": "The Kora"
+    },
+    {
+      "id": 15,
+      "lat": 40.743084,
+      "lng": -73.957151,
+      "type": "complete",
+      "visible": true,
+      "content": "The Yard"
+    },
+    {
+      "id": 16,
+      "lat": 40.738835,
+      "lng": -73.891926,
+      "type": "dev",
+      "visible": true,
+      "content": "Woodside"
+    },
+    {
+      "id": 17,
+      "lat": 40.747096,
+      "lng": -73.94504,
+      "type": "dev",
+      "visible": true,
+      "content": "Court Square Assemblage"
+    },
+    {
+      "id": 18,
+      "lat": 40.701258,
+      "lng": -73.917243,
+      "type": "complete",
+      "visible": true,
+      "content": "The Harmony"
+    },
+    {
+      "id": 19,
+      "lat": 40.690691,
+      "lng": -73.918759,
+      "type": "complete",
+      "visible": true,
+      "content": "Woodbine Madison"
+    },
+    {
+      "id": 20,
+      "lat": 40.787913,
+      "lng": -73.94821,
+      "type": "complete",
+      "visible": true,
+      "content": "166E100"
+    },
+    {
+      "id": 21,
+      "lat": 40.797719,
+      "lng": -73.962812,
+      "type": "complete",
+      "visible": true,
+      "content": "61W104"
+    }
+  ]
+}
